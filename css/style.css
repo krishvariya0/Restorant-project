@@ -462,7 +462,7 @@ body {
 /* ======================contact==================================== */
 #contact {
   padding: 80px 20px;
-  background-color: #fffaf1;
+  background-color: wheat;
 }
 
 .contact-section {
@@ -742,9 +742,10 @@ body {
     display: block;
     width: 25px;
     height: 3px;
-    background: #fff;
+    background: #ff6b00;
     margin: 5px 0;
     transition: all 0.3s ease;
+    border-radius: 20px;
   }
   
   .navbar input[type="checkbox"]:checked ~ .hamburger-line .line1 {
